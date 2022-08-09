@@ -4,6 +4,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejathabeebu&label=Profile%20views&color=0e75b6&style=flat" alt="tejathabeebu" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="tejathabeebu" /> </p>
+![Main](https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif)
 
 - 🌱 I’m currently learning **React Native**
 
