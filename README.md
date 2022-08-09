@@ -1,12 +1,13 @@
 <p align="left"> <img src="https://thumbs.dreamstime.com/z/big-data-center-analyzes-data-science-background-presentation-big-data-center-analyzes-data-science-background-159196598.jpg"alt="tejathabeebu" /> </p>
-<h1 align="center">Hi 👋, I'm tejathabeebu</h1>
-<h1 align="center">:
+<h1 align="center">Hi 👋, ### I'm Teja Thabeebu</h1>
+<h1 align="center">
   
-.I'm Teja Thabeebu, 
+*I am interested in the role of Data Scientist and Quantitative Analyst with strong in Python , Statistics, and Machine learning . 
   
-.I am interested in the role of Data Scientist and Quantitative Analyst with strong in Python , Statistics, and Machine learning . 
   
-.I completed Master of Technology in Computer Science and Engineering at Jawaharlal Nehru Technological Univercity(Ananthapur), BTech in Jawaharlal Nehru    Technological Univercity (Ananthapur).</h1> 
+*I completed Master of Technology in Computer Science and Engineering at Jawaharlal Nehru Technological Univercity(Ananthapur), BTech in Jawaharlal Nehru    Technological Univercity (Ananthapur).</h1>
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <p align="right"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="tejathabeebu" /> </p>
